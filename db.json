@@ -1,0 +1,36 @@
+{
+  "countries": [
+    {
+      "id": "india",
+      "name": "India",
+      "capital": "New Delhi",
+      "region": "Asia",
+      "population": 1400000000,
+      "notes": [
+        {
+          "id": "note-india-1",
+          "title": "Short note on India",
+          "content": "India is a large South Asian country with diverse culture, languages and geography. This project highlights a quick note about India.",
+          "createdAt": "2025-10-22T00:00:00.000Z",
+          "author": "Manjeet Kumar"
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "capital": "Tokyo",
+      "region": "Asia",
+      "population": 125800000,
+      "notes": []
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "capital": "Brasília",
+      "region": "Americas",
+      "population": 214000000,
+      "notes": []
+    }
+  ]
+}
